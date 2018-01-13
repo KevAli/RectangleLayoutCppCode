@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1507798588 source:e:\code\workspace\codeblocksworkspace\rectlayout171011\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<stdlib.h>
+	"RectWorkspace.h"
+
+1507789349 e:\code\workspace\codeblocksworkspace\rectlayout171011\include\rectworkspace.h
+	<string>
+	"LowLineList.h"
+	"PackingScheme.h"
+	"PackingRectModule.h"
+
+1502517648 e:\code\workspace\codeblocksworkspace\rectlayout171011\include\lowlinelist.h
+	"LowLine.h"
+	<list>
+	"RectModule.h"
+
+1502517472 e:\code\workspace\codeblocksworkspace\rectlayout171011\include\lowline.h
+	<list>
+
+1507815950 e:\code\workspace\codeblocksworkspace\rectlayout171011\include\rectmodule.h
+	<string>
+
+1502599323 source:e:\code\workspace\codeblocksworkspace\rectlayout171011\src\lowline.cpp
+	"LowLine.h"
+
+1507782782 source:e:\code\workspace\codeblocksworkspace\rectlayout171011\src\lowlinelist.cpp
+	"LowLineList.h"
+
+1507806549 source:e:\code\workspace\codeblocksworkspace\rectlayout171011\src\rectmodule.cpp
+	"RectModule.h"
+
+1507816177 source:e:\code\workspace\codeblocksworkspace\rectlayout171011\src\rectworkspace.cpp
+	"RectWorkspace.h"
+	<iostream>
+
+1507799607 source:e:\code\workspace\codeblocksworkspace\rectlayout171011\src\packingrectmodule.cpp
+	"PackingRectModule.h"
+
+1507799600 e:\code\workspace\codeblocksworkspace\rectlayout171011\include\packingrectmodule.h
+	"RectModule.h"
+
+1507794453 e:\code\workspace\codeblocksworkspace\rectlayout171011\include\packingscheme.h
+	<string>
+	<LowLineList.h>
+
+1507794675 source:e:\code\workspace\codeblocksworkspace\rectlayout171011\src\packingscheme.cpp
+	"PackingScheme.h"
+
